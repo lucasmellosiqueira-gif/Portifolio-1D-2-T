@@ -1,0 +1,3 @@
+Projeto desenvolvido no COlégio Doutor gastão Vidigal, na turma do 1° ano D. O objetivo 
+desse portifólio é explicar a função de cada codígo no HTML, CSS e JS. as imagens, áudios e 
+vídeos usados nesse trabalho, foram retirados ....
